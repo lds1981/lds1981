@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lds1981
 - 👀 I’m interested in lerning to program
-- 🌱 I’m currently learning javascript and google app script basically the same
+- 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on javascript
 - 📫 How to reach me , reach mehere
 
